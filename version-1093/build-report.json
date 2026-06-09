@@ -1,0 +1,14 @@
+{
+  "source_txt_movie_count": 2000,
+  "parsed_movie_count": 2000,
+  "movie_detail_pages": 2000,
+  "category_pages": 10,
+  "category_coverage": 2000,
+  "html_files_total": 2015,
+  "baidu_analytics_pages": 2015,
+  "missing_baidu_analytics": [],
+  "video_source_pool_count": 17,
+  "cover_rule": "X = ((N - 1) % 150) + 1; referenced as top-level 1.jpg to 150.jpg",
+  "site_logo": "日韩在线视频大全",
+  "generated_on": "2026-06-01"
+}
